@@ -1,0 +1,15 @@
+D:\Work\ITPlus\CSDay2\CSDay2\bin\Debug\net6.0\CSDay2.exe
+D:\Work\ITPlus\CSDay2\CSDay2\bin\Debug\net6.0\CSDay2.deps.json
+D:\Work\ITPlus\CSDay2\CSDay2\bin\Debug\net6.0\CSDay2.runtimeconfig.json
+D:\Work\ITPlus\CSDay2\CSDay2\bin\Debug\net6.0\CSDay2.dll
+D:\Work\ITPlus\CSDay2\CSDay2\bin\Debug\net6.0\CSDay2.pdb
+D:\Work\ITPlus\CSDay2\CSDay2\obj\Debug\net6.0\CSDay2.csproj.AssemblyReference.cache
+D:\Work\ITPlus\CSDay2\CSDay2\obj\Debug\net6.0\CSDay2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\ITPlus\CSDay2\CSDay2\obj\Debug\net6.0\CSDay2.AssemblyInfoInputs.cache
+D:\Work\ITPlus\CSDay2\CSDay2\obj\Debug\net6.0\CSDay2.AssemblyInfo.cs
+D:\Work\ITPlus\CSDay2\CSDay2\obj\Debug\net6.0\CSDay2.csproj.CoreCompileInputs.cache
+D:\Work\ITPlus\CSDay2\CSDay2\obj\Debug\net6.0\CSDay2.dll
+D:\Work\ITPlus\CSDay2\CSDay2\obj\Debug\net6.0\refint\CSDay2.dll
+D:\Work\ITPlus\CSDay2\CSDay2\obj\Debug\net6.0\CSDay2.pdb
+D:\Work\ITPlus\CSDay2\CSDay2\obj\Debug\net6.0\CSDay2.genruntimeconfig.cache
+D:\Work\ITPlus\CSDay2\CSDay2\obj\Debug\net6.0\ref\CSDay2.dll
