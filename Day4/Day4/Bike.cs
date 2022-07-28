@@ -6,6 +6,8 @@ public class Bike
     private int _y; // vị trí trục y
     private string _direction = "bac"; // Hướng của của xe
 
+    public static string ThoiTiet = "Mưa";
+
     // In ra console vị trí hiện tại của xe
     public void PrintPosition()
     {
@@ -81,5 +83,15 @@ public class Bike
                 Console.WriteLine("Hướng đi bị sai");
                 break;
         }
+    }
+
+    public void ThayDoiThoiTiet()
+    {
+        ThoiTiet = "Nắng";
+    }
+
+    public static void ThayDoiTTStatic()
+    {
+        ThoiTiet = "Trời Âm U";
     }
 }
