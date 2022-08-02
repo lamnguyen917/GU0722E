@@ -120,6 +120,9 @@ namespace CSDay4
 
             // Test4();
             Test5();
+            
+            // Định nghĩa 1 class Robot
+            // 
         }
     }
 }
